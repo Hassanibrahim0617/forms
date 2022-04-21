@@ -1,0 +1,22 @@
+/* style for the body element*/
+body{background-color:skyblue;}
+/* style for the h1 element*/
+h1{color:indigo;text-transform:capitalize;}
+.register{text-decoration:underline;}
+/* style for the label element */
+label{color:violet;}
+/* style for the input element*/
+input{color:orange;}
+/* style for the body element*/
+#body{background-image:url(photo.jpeg);
+background-size:cover;
+border:1px solid black;
+width:45%;margin-left:30px;}
+/* style for the div1 element*/
+#div1{background-image:url(PHOTO.jpg);
+background-size:cover;
+padding:45px 20px;
+border:2px solid blue;
+margin:30px; 30px;
+width:300px }
+#img{margin:30px; 50px;}
